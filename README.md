@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Efertugrul&label=Profile%20views&color=0e75b6&style=flat" alt="Efertugrul" /> </p>
 
 <h1 align="center">Hi 👋, I'm Efe Ertugrul</h1>
-<h3 align="center">An independent and passionate computer engineering student who's open to learning and new experiences.</h3>
+<h3 align="center">An independent and passionate computer science student who's open to learning and new experiences.</h3>
 
 <img align="right" alt="coding" width="300" padding="50px" src="https://user-images.githubusercontent.com/111835151/187116034-d949d9e4-66b4-4706-8ce9-5dd03e1957d2.gif">
 
