@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Efertugrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Efe Ertugrul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/efe-ertugrul-661a27214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Efe Ertugrul" height="30" width="40" /></a>
 </p>
 
 [![Efe's github activity graph](https://activity-graph.herokuapp.com/graph?username=Efertugrul&bg_color=17202A&color=12CF12&line=12CF12&point=1adbce&&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
