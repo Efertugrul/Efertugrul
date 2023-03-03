@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/111835151/187214530-2fe3330c-950b-4cb1-a7e8-490353d86103.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Efertugrul&label=Profile%20views&color=0e75b6&style=flat" alt="Efertugrul" /> </p>
 ![lll](https://user-images.githubusercontent.com/107368002/222814565-3b0e75aa-4769-4318-8d06-cb23ecd625c5.gif)
