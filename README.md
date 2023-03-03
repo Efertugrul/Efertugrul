@@ -1,7 +1,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Efertugrul&label=Profile%20views&color=0e75b6&style=flat" alt="Efertugrul" /> </p>
-(https://user-images.githubusercontent.com/107368002/222814565-3b0e75aa-4769-4318-8d06-cb23ecd625c5.gif)
+
+![lll](https://user-images.githubusercontent.com/107368002/222814886-5d26502f-253c-49b5-9fac-b58e44700123.gif)
 
 <h1 align="center">Hi 👋, I'm Efe Ertugrul</h1>
 <h3 align="center">An independent and passionate computer science student who's open to learning and new experiences.</h3>
