@@ -47,10 +47,7 @@ Currently shipping an <b>all-in-one platform for restaurants &amp; hotels</b> th
 
 ### ⚡ What I'm Up To
 
-- 🔭 Building **Full-stack hospitality platform** (Flutter • Firebase • .NET 8)  
-- 🧠 Learning **computer vision** & machine learning  
-- 🏗️ Prototyping AR experiences with **Unity**  
-- ✍🏻 Writing about my journey on [**DEV.to**](#) (coming soon)
+- 🔭 Building anything with anything really...
 
 ---
 
