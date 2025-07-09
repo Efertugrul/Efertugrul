@@ -10,12 +10,11 @@
 
 <h1 align="center">Hi, I'm Efe Ertuğrul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Indie software developer • CS student • Lifelong learner</h3>
+<h3 align="center">Software developer • Computer Scientist • Learner</h3>
 
 <!-- Short intro -->
 <p align="center">
-I'm a self-driven computer science student building full-stack solutions and tinkering with everything from IoT to AI.  
-Currently shipping an <b>all-in-one platform for restaurants &amp; hotels</b> that streamlines day-to-day operations.
+Everything from IoT to AI.  
 </p>
 
 <!-- Contact -->
